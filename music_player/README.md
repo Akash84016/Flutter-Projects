@@ -20,5 +20,7 @@ A simple music player app built with Flutter, featuring two screens: Home Player
 ### Key Functionality:
 - Load Statics 4 songs in list with title, image, and URL.
 
-## Technical DetailsState Management:
-- Flutter Bloc is used for managing the state of the app, ensuring smooth transitions between songs and persistent data handling.Music Playback: Songs are played using audio libraries, with controls such as play, pause, next, and previous available on both views.Navigation: Simple navigation between Home Player View and Detail View.
+## Technical Details State Management:
+- Flutter Bloc is used for managing the state of the app, ensuring smooth transitions between songs and persistent data handling.
+- Music Playback: Songs are played using audio libraries, with controls such as play, pause, next, and previous available on both views.
+- Navigation: Simple navigation between Home Player View and Detail View.
